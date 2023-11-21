@@ -11,5 +11,5 @@ for(let index = 0; index < emails.length; index++){
 
 }
 
-const select_emeil = 'gmail.com'
-console.log(hash_email[select_emeil].map((email, index) => email[index]));
+const select_email = 'gmail.com'
+console.log(hash_email[select_email]);
